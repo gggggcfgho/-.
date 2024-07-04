@@ -1,0 +1,14 @@
+﻿  Bullet.cpp
+  Game.cpp
+D:\VSCode\projet\PlantsVsZombies-1.0\PVZ\PVZ\Game.cpp(259,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+  Map.cpp
+D:\VSCode\projet\PlantsVsZombies-1.0\PVZ\PVZ\Map.cpp(79,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\VSCode\projet\PlantsVsZombies-1.0\PVZ\PVZ\Map.cpp(111,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Plant.cpp
+  Store.cpp
+  ui_tools.cpp
+D:\VSCode\projet\PlantsVsZombies-1.0\PVZ\PVZ\ui_tools.cpp(30,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Zombie.cpp
+  正在生成代码...
+  PVZ.vcxproj -> D:\VSCode\projet\PlantsVsZombies-1.0\PVZ\x64\Debug\PVZ.exe
